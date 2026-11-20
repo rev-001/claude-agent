@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+.venv/
+.env*
+!.env.example
+.dev.vars
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.flac
+dist/
+out/
+.wrangler/
